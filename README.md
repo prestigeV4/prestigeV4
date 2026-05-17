@@ -7,7 +7,7 @@
 
 ---
 
-| 🔮 PRESTIGE PROFILE |
+|  PRESTIGE PROFILE |
 | :--- |
 | <br /> **Ueber mich** <br /> Ich bin spezialisiert auf die Entwicklung von modernen Webanwendungen und maßgeschneiderten Plugins für Minecraft. Wenn ich nicht gerade Code optimiere, leite ich mein eigenes Hosting-Projekt. <br /><br /> 🌐 **Mein Unternehmen:** <br /> [Prestige Hosting](https://dein-hosting-link.de) – Zuverlässiges und performantes Hosting für deine Projekte. <br /><br /> |
 | **Tech Stack** <br /> Sprachen, die ich aktiv für WebDev und Plugins nutze: <br /><br /> ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br /><br /> |

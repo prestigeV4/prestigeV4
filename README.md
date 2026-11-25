@@ -1,14 +1,59 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=200&section=header&text=PRESTIGE&fontSize=80&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Levi&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <br />
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=8a2be2&style=flat-square" alt="Profile Views" />
+
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=30363d&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
 <br /><br />
 
-| PRESTIGE PROFILE |
-| :--- |
-| <br /> **About me** <br /> I am an active developer with a strong passion for Cyber Security. I build stable applications and focus on secure, high-performance code. <br /><br /> **My Business:** <br /> <a href="https://discord.gg/b5cgXbNBaH"><img src="https://img.shields.io/badge/Hosting-Prestige_Hosting-8a2be2?style=for-the-badge&logo=server&logoColor=white" alt="Prestige Hosting" /></a> <br /> Reliable and high-performance hosting for your projects. <br /><br /> |
-| **Tech Stack** <br /> Languages I actively use for WebDev and plugins: <br /><br /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <br /><br /> |
-| **Specialties & Services** <br /><br /> <img src="https://img.shields.io/badge/Minecraft-Plugin_Development-111111?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Plugin Dev" /> <br /> Development of custom Spigot, Paper, or BungeeCord plugins. <br /><br /> <img src="https://img.shields.io/badge/Minecraft-Server_Setup-111111?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft Server Setup" /> <br /> Complete setup, performance optimization, and securing of server networks. <br /><br /> <img src="https://img.shields.io/badge/Discord-Bot_Development-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot Dev" /> <br /> Programming of custom Discord bots for moderation, systems, and API integrations. <br /><br /> <img src="https://img.shields.io/badge/Security-Web_Application-111111?style=for-the-badge&logo=security&logoColor=8a2be2" alt="Web Security" /> <br /> Checking web applications for security vulnerabilities and securing backends. <br /><br /> <img src="https://img.shields.io/badge/API-Development_%26_Integration-111111?style=for-the-badge&logo=postman&logoColor=white" alt="API Dev" /> <br /> Creation and integration of REST APIs for web and game servers. <br /><br /> |
+# Hey, I'm Levi
+
+**Developer · Student · Tech Enthusiast**
+
+I enjoy building things, exploring new technologies
+and turning ideas into real projects.
+
+<br />
+
+</div>
+
+## About Me
+
+- Currently learning and building new projects
+- Interested in software development and cybersecurity
+- Exploring different technologies and improving my skills
+- Always working on something new
+
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,php,lua,git,github,vscode&theme=dark" />
+</p>
+
+## What I'm Working On
+
+- Personal projects
+- Web development
+- Minecraft plugins
+- Learning more about software and security
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=ffffff" height="160" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" height="160" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Building. Learning. Improving.*
+
 </div>
